@@ -7,7 +7,7 @@ using UnityEngine;
 public class ScreenWrap : MonoBehaviour
 {
     //Sprite
-    private SpriteRenderer spriteRenderer; //What if you could have a license to do parkour over the city and shit?
+    private SpriteRenderer spriteRenderer; 
     //Camera
     private Bounds camBounds;
     private float camWidth;
