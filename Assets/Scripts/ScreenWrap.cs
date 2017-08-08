@@ -7,7 +7,7 @@ using UnityEngine;
 public class ScreenWrap : MonoBehaviour
 {
     //Sprite
-    private SpriteRenderer spriteRenderer;
+    private SpriteRenderer spriteRenderer; //What if, ummmm, there were clothes where all the pockets were on the front?
     //Camera
     private Bounds camBounds;
     private float camWidth;
